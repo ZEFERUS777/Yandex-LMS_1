@@ -1,1 +1,1 @@
-print("hello")
+print(list([[x for x in range(10)] for _ in range(19)]))
